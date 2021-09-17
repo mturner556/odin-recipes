@@ -1,1 +1,2 @@
 # odin-recipes
+In this Odin Project asignment, I will be constructing a recipe webpage. It will contain basic html structure, and implement some of the foundational html tags. This project will also display a properly linked webpage for images and different recipe pages.
